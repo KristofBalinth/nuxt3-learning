@@ -1,6 +1,5 @@
 <template>
 	<div>
-		<Alert />
-		<Profile />
+		<p>Avatar</p>
 	</div>
 </template>
